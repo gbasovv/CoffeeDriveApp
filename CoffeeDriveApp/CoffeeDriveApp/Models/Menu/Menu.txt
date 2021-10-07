@@ -1,0 +1,185 @@
+{
+"coffee":
+[
+{
+"title": "Espresso",
+"description": "An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos.",
+"price": [2, 3, 4],
+"ingredients": ["1oz Espresso"],
+"size": ["Small - 200ml", "Medium - 300ml", "Large - 400ml"]
+},
+{
+"title": "Latte",
+"description": "As the most popular coffee drink out there, the latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice.",
+"price": [2, 3, 4],
+"ingredients": ["Espresso", "Steamed Milk"],
+"size": ["Small - 200ml", "Medium - 300ml", "Large - 400ml"]
+},
+{
+"title": "Mocha",
+"description": "For all you chocolate lovers out there, you’ll fall in love with a mocha (or maybe you already have). The mocha is a chocolate espresso drink with steamed milk and foam.",
+"price": [2, 3, 4],
+"ingredients": ["Espresso", "Steamed Milk", "Chocolate"],
+"size": ["Small - 200ml", "Medium - 300ml", "Large - 400ml"]
+},
+{
+"title": "Cappuccino",
+"description": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well.",
+"price": [2, 3, 4],
+"ingredients": ["Espresso", "Steamed Milk", "Foam"],
+"size": ["Small - 200ml", "Medium - 300ml", "Large - 400ml"]
+},
+{
+"title": "Americano",
+"description": "Americano is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir.",
+"price": [2, 3, 4],
+"ingredients": ["Coffee"],
+"size": ["Small - 200ml", "Medium - 300ml", "Large - 400ml"]
+},
+{
+"title": "Macchiato",
+"description": "The macchiato is another espresso-based drink that has a small amount of foam on top. It’s the happy medium between a cappuccino and a doppio.",
+"price": [2, 3, 4],
+"ingredients": ["Espresso", "Foam"],
+"size": ["Small - 200ml", "Medium - 300ml", "Large - 400ml"]
+},
+{
+"title": "FlatWhite",
+"description": "This Aussie-born drink is basically a cappuccino without the foam or chocolate sprinkle. It’s an espresso drink with steamed milk.",
+"price": [2, 3, 4],
+"ingredients": ["Espresso", "Steamed Milk"],
+"size": ["Small - 200ml", "Medium - 300ml", "Large - 400ml"]
+}
+],
+"desserts":
+[
+{
+"title": "Donut Vanil",
+"description": "Donut with vanilla cream is a fragrant donut that is gently stuffed with vanilla cream, covered with white and chocolate glaze. This dessert will not leave indifferent those with a sweet tooth.",
+"price": 2,
+"size": "Classic"
+},
+{
+"title": "Donut Chocolate",
+"description": "Donut with chocolate cream is a delicate donut with chocolate-cream filling, covered with milk and chocolate glaze on top.",
+"price": 2,
+"size": "Classic"
+},
+{
+"title": "Donut Pink",
+"description": "A sprinkled donut is a classic donut topped with white icing and colorful sugar balls.",
+"price": 2,
+"size": "Classic"
+},
+{
+"title": "Сroissant",
+"description": "Classic puff croissant made from fluffy yeast dough.",
+"price": 1.50,
+"size": "Classic"
+},
+{
+"title": "Pecan",
+"description": "Maple pecans are puff pastries topped with pecans and icing.",
+"price": 2.50,
+"size": "Classic"
+},
+{
+"title": "Cheesecake",
+"description": "American style cheesecake is a shortbread biscuit with soft curd cheese and 100% natural whole milk.",
+"price": 3,
+"size": "Classic"
+}
+],
+"sandwiches":
+[
+{
+"title": "Quiche with salmon",
+"description": "Salmon broccoli quiche is a French pie stuffed with broccoli and red fish (salmon).",
+"price": 1.30,
+"size": "Classic"
+},
+{
+"title": "Ciabatta with ham",
+"description": "Ciabatta with ham and cheese is a hot bun, toasted in a toaster, with three slices of Emmental cheese, two slices of ham and two slices of tomato.",
+"price": 1.40,
+"size": "Classic"
+},
+{
+"title": "Greek Fresh",
+"description": "Grik Fresh is 2 juicy 100% beef steaks, crispy salad, fresh cucumber, aromatic basil sauce and all this in a spicy pita with spices.",
+"price": 2.30,
+"size": "Classic"
+},
+{
+"title": "Panini Tuscany",
+"description": "Panini Toscana is 2 meat steaks from 100% beef, flavored pita with spices, spicy arugula salad, tomato, fresh onion, Emmental cheese and basil sauce!",
+"price": 3.10,
+"size": "Classic"
+},
+{
+"title": "Croissant with ham",
+"description": "Croissant with ham and cheese - a croissant made from puff yeast dough with two slices of Emmental cheese and two slices of ham.",
+"price": 0.90,
+"size": "Classic"
+},
+{
+"title": "Quiche four cheeses",
+"description": "Quiche four cheeses is a French pie filled with 4 types of French cheeses: Gouda, Parmesan, Mozzarella and Blue cheese.",
+"price": 1.50,
+"size": "Classic"
+},
+{
+"title": "Ciabatta with tuna",
+"description": "Tuna Ciabatta is a hot bun, fried in a toaster, with tuna, Cheddar cheese, and a special Tar-Tar sauce.",
+"price": 1.20,
+"size": "Classic"
+}
+],
+"other":
+[
+{
+"title": "CocaCola",
+"description": "CocaCola - carbonated soft drink.",
+"price": [0.75, 0.95, 1.10],
+"size": ["Small - 250ml", "Medium - 500ml", "Large - 1000ml"]
+},
+{
+"title": "Fanta",
+"description": "Fanta - carbonated soft drink.",
+"price": [0.75, 0.95, 1.10],
+"size": ["Small - 250ml", "Medium - 500ml", "Large - 1000ml"]
+},
+{
+"title": "Sprite",
+"description": "Sprite - carbonated soft drink.",
+"price": [0.75, 0.95, 1.10],
+"size": ["Small - 250ml", "Medium - 500ml", "Large - 1000ml"]
+},
+{
+"title": "Apple slices",
+"description": "Apple slices are selected, fresh apples cut into slices. Vitamins in every bite.",
+"price": [0.50, 0.70, 0.90],
+"size": ["Small - 80g", "Medium - 120g", "Large - 160g"]
+},
+{
+"title": "Carrot slices",
+"description": "Carrot Sticks are a healthy and all-natural vegetable dessert perfect for a quick bite! Carrots have many substances and trace elements useful for the body. The dish is perfect for a children's breakfast.",
+"price": [0.50, 0.70, 0.90],
+"size": ["Small - 80g", "Medium - 120g", "Large - 160g"]
+},
+{
+"title": "Still water",
+"description": "Still drinking water Aqua Minerale produced by PepsiCo.",
+"price": [1, 1.50, 2],
+"size": ["Small - 330ml", "Medium - 500ml", "Large - 1000ml"]
+},
+{
+"title": "Sparkling water",
+"description": "Drinking carbonated water Aqua Minerale produced by PepsiCo.",
+"price": [1, 1.50, 2],
+"size": ["Small - 330ml", "Medium - 500ml", "Large - 1000ml"]
+}
+],
+"count": 4,
+"names": ["Coffee", "Deserts", "Sandwiches", "Other"]
+}
