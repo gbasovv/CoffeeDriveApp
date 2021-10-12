@@ -24,6 +24,7 @@ class LoginVC: MainVC {
     override func viewDidLoad() {
         super.viewDidLoad()
         reference = Database.database().reference(withPath: "users")
+        navigationItem.setHidesBackButton(true, animated: false)
     }
 
     @IBAction func logIn(_ sender: UIButton) {
